@@ -1,0 +1,782 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sun Feb 11 20:20:38 +0000 2018",
+            "id": 962783457670811650,
+            "id_str": "962783457670811650",
+            "text": "You know I invented the word \"karneval\" . It's gonna be huge. All people celebrate me for it. #TheRealDonaldTrump\u2026 https://t.co/i1VRAW6Y5s",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TheRealDonaldTrump",
+                        "indices": [
+                            94,
+                            113
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/i1VRAW6Y5s",
+                        "expanded_url": "https://twitter.com/i/web/status/962783457670811650",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            115,
+                            138
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 917797092290113536,
+                "id_str": "917797092290113536",
+                "name": "Bonnald J. Trump",
+                "screen_name": "realBonnald",
+                "location": "White House, Bonn ",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 6,
+                "friends_count": 59,
+                "listed_count": 0,
+                "created_at": "Tue Oct 10 17:00:53 +0000 2017",
+                "favourites_count": 1,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/920361988022263809/K2z8dnGR_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/920361988022263809/K2z8dnGR_normal.jpg",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Feb 11 19:44:13 +0000 2018",
+            "id": 962774293624049665,
+            "id_str": "962774293624049665",
+            "text": "\"So tell me this:  Why is Muller still investigating this fake Russia bull crap....he should be ...\" \u2014\u2026 https://t.co/7oDbriBMRZ",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/7oDbriBMRZ",
+                        "expanded_url": "https://twitter.com/i/web/status/962774293624049665",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            104,
+                            127
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 46746326,
+                "id_str": "46746326",
+                "name": "Joann Reiter",
+                "screen_name": "DeplorableJoann",
+                "location": "Fl",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 138,
+                "friends_count": 204,
+                "listed_count": 8,
+                "created_at": "Fri Jun 12 20:54:27 +0000 2009",
+                "favourites_count": 6592,
+                "utc_offset": -28800,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 11224,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/781124354449010688/hvDVAleA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/781124354449010688/hvDVAleA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/46746326/1415864351",
+                "profile_link_color": "DD2E44",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Feb 11 19:42:36 +0000 2018",
+            "id": 962773886176759808,
+            "id_str": "962773886176759808",
+            "text": "from @santanaraymond -  therealdonaldtrump here you go again.. just when it seems that our\u2026 https://t.co/7113i6lFy9",
+            "truncated": false,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "santanaraymond",
+                        "name": "The central park 5",
+                        "id": 146875185,
+                        "id_str": "146875185",
+                        "indices": [
+                            5,
+                            20
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/7113i6lFy9",
+                        "expanded_url": "https://www.instagram.com/p/BfEU5XfBejA/",
+                        "display_url": "instagram.com/p/BfEU5XfBejA/",
+                        "indices": [
+                            92,
+                            115
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 303434870,
+                "id_str": "303434870",
+                "name": "HarlemTrends.com",
+                "screen_name": "HarlemTrends",
+                "location": "Harlem, New York",
+                "description": "https://t.co/TE3joAIjyN features uptown culture, entertainment, restaurants, events, community news and more. Instagram & Facebook @ harlemtrends",
+                "url": "https://t.co/TE3joAIjyN",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TE3joAIjyN",
+                                "expanded_url": "http://HarlemTrends.com",
+                                "display_url": "HarlemTrends.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TE3joAIjyN",
+                                "expanded_url": "http://HarlemTrends.com",
+                                "display_url": "HarlemTrends.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 5824,
+                "friends_count": 1093,
+                "listed_count": 188,
+                "created_at": "Sun May 22 21:24:08 +0000 2011",
+                "favourites_count": 7555,
+                "utc_offset": -18000,
+                "time_zone": "Quito",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 27315,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "DD2E44",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736499010/5dbf256ea8ff82fe027e5e20324cc9ae.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736499010/5dbf256ea8ff82fe027e5e20324cc9ae.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/528689681618059264/icBpbGAf_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/528689681618059264/icBpbGAf_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/303434870/1398465027",
+                "profile_link_color": "660515",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Feb 11 19:27:47 +0000 2018",
+            "id": 962770156694003712,
+            "id_str": "962770156694003712",
+            "text": "RT @GeneMath423: https://t.co/dEFgOi0CgM\n\nI support #POTUS \n#Thegreatawakening \n#Q \n#TheRealDonaldTrump",
+            "truncated": false,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "POTUS",
+                        "indices": [
+                            52,
+                            58
+                        ]
+                    },
+                    {
+                        "text": "Thegreatawakening",
+                        "indices": [
+                            60,
+                            78
+                        ]
+                    },
+                    {
+                        "text": "Q",
+                        "indices": [
+                            80,
+                            82
+                        ]
+                    },
+                    {
+                        "text": "TheRealDonaldTrump",
+                        "indices": [
+                            84,
+                            103
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "GeneMath423",
+                        "name": "Gene",
+                        "id": 927330038562816001,
+                        "id_str": "927330038562816001",
+                        "indices": [
+                            3,
+                            15
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/dEFgOi0CgM",
+                        "expanded_url": "https://www.reddit.com/r/CBTS_Stream/comments/7wubjw/found_this_randomly_on_instagram_words_spreading/?utm_source=reddit-android",
+                        "display_url": "reddit.com/r/CBTS_Stream/\u2026",
+                        "indices": [
+                            17,
+                            40
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 763130254231756802,
+                "id_str": "763130254231756802",
+                "name": "LOVEUSATRUMP",
+                "screen_name": "4Freedom4ever",
+                "location": "",
+                "description": "LOVE TRUMP! Constitution &Will March w R\ud83c\uddfa\ud83c\uddf8flag 2honor those who have& is fighting4\ud83c\uddfa\ud83c\uddf8freedomUNDER ONE GOD",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 3906,
+                "friends_count": 1983,
+                "listed_count": 147,
+                "created_at": "Tue Aug 09 21:50:05 +0000 2016",
+                "favourites_count": 52867,
+                "utc_offset": -21600,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 222665,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/916669129108742145/xm8GglfY_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/916669129108742145/xm8GglfY_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/763130254231756802/1492956747",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Sun Feb 11 19:23:09 +0000 2018",
+                "id": 962768990782263297,
+                "id_str": "962768990782263297",
+                "text": "https://t.co/dEFgOi0CgM\n\nI support #POTUS \n#Thegreatawakening \n#Q \n#TheRealDonaldTrump",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "POTUS",
+                            "indices": [
+                                35,
+                                41
+                            ]
+                        },
+                        {
+                            "text": "Thegreatawakening",
+                            "indices": [
+                                43,
+                                61
+                            ]
+                        },
+                        {
+                            "text": "Q",
+                            "indices": [
+                                63,
+                                65
+                            ]
+                        },
+                        {
+                            "text": "TheRealDonaldTrump",
+                            "indices": [
+                                67,
+                                86
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/dEFgOi0CgM",
+                            "expanded_url": "https://www.reddit.com/r/CBTS_Stream/comments/7wubjw/found_this_randomly_on_instagram_words_spreading/?utm_source=reddit-android",
+                            "display_url": "reddit.com/r/CBTS_Stream/\u2026",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 927330038562816001,
+                    "id_str": "927330038562816001",
+                    "name": "Gene",
+                    "screen_name": "GeneMath423",
+                    "location": "Panama City, FL",
+                    "description": "Today's society seems to give people the value of objects, and objects the value of people.  It is everywhere you look.  Service Too Others.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 273,
+                    "friends_count": 406,
+                    "listed_count": 0,
+                    "created_at": "Mon Nov 06 00:21:24 +0000 2017",
+                    "favourites_count": 1740,
+                    "utc_offset": -21600,
+                    "time_zone": "Central Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 1068,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "F5F8FA",
+                    "profile_background_image_url": null,
+                    "profile_background_image_url_https": null,
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/955971168359583746/wkJcwVYF_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/955971168359583746/wkJcwVYF_normal.jpg",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "created_at": "Sun Feb 11 19:26:20 +0000 2018",
+            "id": 962769790095052800,
+            "id_str": "962769790095052800",
+            "text": "President Trump is not afraid to face off with you, he is showing you how irrelevant you really are. LMAO! You will\u2026 https://t.co/P0tZsX5d2R",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/P0tZsX5d2R",
+                        "expanded_url": "https://twitter.com/i/web/status/962769790095052800",
+                        "display_url": "twitter.com/i/web/status/9\u2026",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 953270636356558848,
+                "id_str": "953270636356558848",
+                "name": "Ellen P\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8",
+                "screen_name": "EllenPisz1",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 27,
+                "friends_count": 64,
+                "listed_count": 0,
+                "created_at": "Tue Jan 16 14:20:05 +0000 2018",
+                "favourites_count": 456,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 161,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/953688950958370818/D2kWoEjm_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/953688950958370818/D2kWoEjm_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/953270636356558848/1516210109",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 962670435409199104,
+            "quoted_status_id_str": "962670435409199104",
+            "quoted_status": {
+                "created_at": "Sun Feb 11 12:51:32 +0000 2018",
+                "id": 962670435409199104,
+                "id_str": "962670435409199104",
+                "text": "Trump is too afraid to attack Rep. Maxine Waters directly, so a ProTrump PAC, Roger Stone, Joe Arpaio &amp; Alex Jones\u2026 https://t.co/hf5LsiZJIg",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/hf5LsiZJIg",
+                            "expanded_url": "https://twitter.com/i/web/status/962670435409199104",
+                            "display_url": "twitter.com/i/web/status/9\u2026",
+                            "indices": [
+                                120,
+                                143
+                            ]
+                        }
+                    ]
+                },
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 3166120541,
+                    "id_str": "3166120541",
+                    "name": "Maxine Waters",
+                    "screen_name": "MaxineWaters",
+                    "location": "Los Angeles, CA",
+                    "description": "The Campaign Committee to Reelect Congresswoman Maxine Waters.",
+                    "url": "https://t.co/UZ7M1dpzG9",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/UZ7M1dpzG9",
+                                    "expanded_url": "http://maxinewatersforcongress.com",
+                                    "display_url": "maxinewatersforcongress.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 9804,
+                    "friends_count": 470,
+                    "listed_count": 121,
+                    "created_at": "Tue Apr 14 15:17:01 +0000 2015",
+                    "favourites_count": 328,
+                    "utc_offset": -18000,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 527,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/896054454973333504/foCzhqQd_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/896054454973333504/foCzhqQd_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3166120541/1502556775",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "A8C7F7",
+                    "profile_sidebar_fill_color": "C0DFEC",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 152,
+                "favorite_count": 194,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.139,
+        "max_id": 962783457670811650,
+        "max_id_str": "962783457670811650",
+        "next_results": "?max_id=962769790095052799&q=therealDonaldTrump&count=5&include_entities=1",
+        "query": "therealDonaldTrump",
+        "refresh_url": "?since_id=962783457670811650&q=therealDonaldTrump&include_entities=1",
+        "count": 5,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
